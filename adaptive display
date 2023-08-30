@@ -1,0 +1,16 @@
+/* Your default styles here */
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+  /* Adjust font sizes, padding, margins, etc. for smaller screens */
+}
+
+/* Media query for medium-sized screens */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  /* Adjust font sizes, padding, margins, etc. for medium-sized screens */
+}
+
+/* Media query for larger screens */
+@media screen and (min-width: 1025px) {
+  /* Adjust font sizes, padding, margins, etc. for larger screens */
+}
