@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Website</title>
+  <!-- Add other meta tags, stylesheets, etc. here -->
+</head>
+<body>
+  <h1>Welcome to Your Website</h1>
+  
+  <!-- Google AdSense Ad Slot -->
+  <div id="adContainer">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="YOUR_AD_CLIENT_ID"
+         data-ad-slot="YOUR_AD_SLOT_ID"
+         data-ad-format="auto"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  
+  <p>Other content on your website...</p>
+  
+  <!-- Add more content as needed -->
+</body>
+</html>
